@@ -1,5 +1,6 @@
-## Learning Golang
+## Learning golang
 
+#####  [Official Documentation: Go Programming Language](https://golang.org/doc/)
 
 
 #### Go commands
@@ -23,4 +24,8 @@ go get
 // to run tests
 go test
 ```
+
+
+
+##### Read more on packages [fmt ](https://golang.org/pkg/fmt/),  [bufio](https://golang.org/pkg/bufio/),  [os](https://golang.org/pkg/os/),  [time](https://golang.org/pkg/time/),  [http](https://golang.org/pkg/net/http/),
 
