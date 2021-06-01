@@ -25,7 +25,9 @@ go get
 go test
 ```
 
-
-
 ##### Read more on packages [fmt ](https://golang.org/pkg/fmt/),  [bufio](https://golang.org/pkg/bufio/),  [os](https://golang.org/pkg/os/),  [time](https://golang.org/pkg/time/),  [http](https://golang.org/pkg/net/http/),
 
+##### Golang resources
+https://www.golang-book.com/guides/bootcamp
+https://golang.org
+https://cloud.google.com/appengine/docs/go
