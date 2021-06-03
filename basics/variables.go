@@ -24,4 +24,18 @@ func main(){
 	distance := 250;
 	fmt.Println("Distance is ", distance, "kms")
 	
+	// constants in go
+	const Pi float32 = 3.14
+	fmt.Println("Value of Pi is",Pi)
+
+	// multiple variable declaration in go
+	var (
+		a = 10
+		b = 20
+		c = 30
+	)
+	fmt.Println("a=",a)
+	fmt.Println("b=",b)
+	fmt.Println("c=",c)
+
 }
