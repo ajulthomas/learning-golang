@@ -1,33 +1,34 @@
-## Learning golang
+## Golang Basics
 
-#####  [Official Documentation: Go Programming Language](https://golang.org/doc/)
+The fundamentals of Golang is discussed here.
 
-
-#### Go commands
-
-```go
-// compiles and executes one or more files
-go run <file-name>.go
-
-// compiles the code
-go build <filename>.go
-
-// formats the code
-go fmt 
-
-// compiles and installs a package
-go install <package-name>
-
-// downloads the source-code
-go get 
-
-// to run tests
-go test
-```
-
-##### Read more on packages [fmt ](https://golang.org/pkg/fmt/),  [bufio](https://golang.org/pkg/bufio/),  [os](https://golang.org/pkg/os/),  [time](https://golang.org/pkg/time/),  [http](https://golang.org/pkg/net/http/),
-
-##### Golang resources
-https://www.golang-book.com/guides/bootcamp
-https://golang.org
-https://cloud.google.com/appengine/docs/go
+1. Intro
+    - hello-world
+    - package
+    - import
+    - main function
+2. Data Types
+    - int
+    - string
+    - bool
+    - float32, float64
+    - complex64, complex128
+3. Variables
+    - Declaration
+    - Initialisation
+    - Type Inference
+    - Type Conversion
+4. Functions
+    - Function Definition
+    - Function call
+    - Returning multiple values
+5. Flow Control Statements
+    - for loop
+    - if-else
+    - switch
+    - defer
+6. More Datatypes: Structs, Arrays, Slices, Maps
+    - Structs
+    - Arrays
+    - Slices
+    - Maps
