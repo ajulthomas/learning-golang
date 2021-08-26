@@ -34,7 +34,7 @@ go test
 
 I a referring to the below resources to learn golang.
 
-https://tour.golang.org/
-https://www.golang-book.com/
-https://golang.org
-https://cloud.google.com/appengine/docs/go
+- [Official Golang Guide](https://tour.golang.org/)
+- [Golang Book](https://www.golang-book.com/)
+- [Golang Documentation](https://golang.org)
+- [Google Link](https://cloud.google.com/appengine/docs/go)
